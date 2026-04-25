@@ -27,7 +27,7 @@ App móvil para Android que muestra un catálogo digital de animales con su info
 
 1. Abrir proyecto en Android Studio
 2. Conectar dispositivo o iniciar emulador
-3. Ejecutar (Run ▶)
+3. Ejecutar (Run)
 
 ## Integrantes
 
